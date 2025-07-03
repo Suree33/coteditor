@@ -1,3 +1,4 @@
+
 {
   "attributes" : {
     "color" : "#e5c890"
@@ -16,15 +17,15 @@
   },
   "cursor" : {
     "color" : "#f2d5cf",
-    "usesSystemSetting" : true
+    "usesSystemSetting" : false
   },
   "highlight" : {
     "color" : "#81c8be",
-    "usesSystemSetting" : true
+    "usesSystemSetting" : false
   },
   "insertionPoint" : {
     "color" : "#f2d5cf",
-    "usesSystemSetting" : true
+    "usesSystemSetting" : false
   },
   "invisibles" : {
     "color" : "#737994"
@@ -38,8 +39,8 @@
   "metadata" : {
     "author" : "Suree33",
     "description" : "Catppuccin Frappé theme for CotEditor.",
-    "distributionURL" : "https:\/\/github.com\/Suree33\/Catppuccin-Frappé-CotEditor",
-    "license" : "Same as CotEditor (Apache, ver.2)"
+    "distributionURL" : "https:\/\/github.com\/Suree33\/coteditor",
+    "license" : "MIT"
   },
   "name" : "Catppuccin Frappé",
   "numbers" : {
@@ -47,7 +48,7 @@
   },
   "selection" : {
     "color" : "#949cbbbf",
-    "usesSystemSetting" : true
+    "usesSystemSetting" : false
   },
   "strings" : {
     "color" : "#a6d189"

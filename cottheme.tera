@@ -1,0 +1,75 @@
+---
+whiskers:
+  version: ^2.5.1
+  matrix:
+    - flavor
+  filename: "themes/Catppuccin {{flavor.name}}.cottheme"
+---
+
+{
+  "attributes" : {
+    "color" : "#{{yellow.hex}}"
+  },
+  "background" : {
+    "color" : "#{{base.hex}}"
+  },
+  "characters" : {
+    "color" : "#{{pink.hex}}"
+  },
+  "commands" : {
+    "color" : "#{{blue.hex}}"
+  },
+  "comments" : {
+    "color" : "#{{overlay2.hex}}"
+  },
+  "cursor" : {
+    "color" : "#{{rosewater.hex}}",
+    "usesSystemSetting" : false
+  },
+  "highlight" : {
+    "color" : "#{{teal.hex}}",
+    "usesSystemSetting" : false
+  },
+  "insertionPoint" : {
+    "color" : "#{{rosewater.hex}}",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#{{overlay0.hex}}"
+  },
+  "keywords" : {
+    "color" : "#{{mauve.hex}}"
+  },
+  "lineHighlight" : {
+    "color" : "#{{text.hex}}e6"
+  },
+  "metadata" : {
+    "author" : "Suree33",
+    "description" : "Catppuccin {{flavor.name}} theme for CotEditor.",
+    "distributionURL" : "https:\/\/github.com\/Suree33\/coteditor",
+    "license" : "MIT"
+  },
+  "name" : "Catppuccin {{flavor.name}}",
+  "numbers" : {
+    "color" : "#{{peach.hex}}"
+  },
+  "selection" : {
+    "color" : "#{{overlay2.hex}}bf",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#{{green.hex}}"
+  },
+  "text" : {
+    "color" : "#{{text.hex}}"
+  },
+  "types" : {
+    "color" : "#{{yellow.hex}}"
+  },
+  "values" : {
+    "color" : "#{{red.hex}}"
+  },
+  "variables" : {
+    "color" : "#{{maroon.hex}}"
+  }
+}

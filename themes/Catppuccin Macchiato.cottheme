@@ -1,3 +1,4 @@
+
 {
   "attributes" : {
     "color" : "#eed49f"
@@ -16,15 +17,15 @@
   },
   "cursor" : {
     "color" : "#f4dbd6",
-    "usesSystemSetting" : true
+    "usesSystemSetting" : false
   },
   "highlight" : {
     "color" : "#8bd5ca",
-    "usesSystemSetting" : true
+    "usesSystemSetting" : false
   },
   "insertionPoint" : {
     "color" : "#f4dbd6",
-    "usesSystemSetting" : true
+    "usesSystemSetting" : false
   },
   "invisibles" : {
     "color" : "#6e738d"
@@ -38,8 +39,8 @@
   "metadata" : {
     "author" : "Suree33",
     "description" : "Catppuccin Macchiato theme for CotEditor.",
-    "distributionURL" : "https:\/\/github.com\/Suree33\/Catppuccin-Macchiato-CotEditor",
-    "license" : "Same as CotEditor (Apache, ver.2)"
+    "distributionURL" : "https:\/\/github.com\/Suree33\/coteditor",
+    "license" : "MIT"
   },
   "name" : "Catppuccin Macchiato",
   "numbers" : {
@@ -47,7 +48,7 @@
   },
   "selection" : {
     "color" : "#939ab7bf",
-    "usesSystemSetting" : true
+    "usesSystemSetting" : false
   },
   "strings" : {
     "color" : "#a6da95"
@@ -59,7 +60,7 @@
     "color" : "#eed49f"
   },
   "values" : {
-    "color" : "#b22729"
+    "color" : "#ed8796"
   },
   "variables" : {
     "color" : "#ee99a0"
