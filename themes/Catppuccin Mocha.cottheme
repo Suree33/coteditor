@@ -1,0 +1,67 @@
+{
+  "attributes" : {
+    "color" : "#f9e2af"
+  },
+  "background" : {
+    "color" : "#1e1e2e"
+  },
+  "characters" : {
+    "color" : "#f5c2e7"
+  },
+  "commands" : {
+    "color" : "#89b4fa"
+  },
+  "comments" : {
+    "color" : "#9399b2"
+  },
+  "cursor" : {
+    "color" : "#f5e0dc",
+    "usesSystemSetting" : true
+  },
+  "highlight" : {
+    "color" : "#94e2d5",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#f5e0dc",
+    "usesSystemSetting" : true
+  },
+  "invisibles" : {
+    "color" : "#6c7086"
+  },
+  "keywords" : {
+    "color" : "#cba6f7"
+  },
+  "lineHighlight" : {
+    "color" : "#cdd6f4e6"
+  },
+  "metadata" : {
+    "author" : "Suree33",
+    "description" : "Catppuccin Mocha theme for CotEditor.",
+    "distributionURL" : "https:\/\/github.com\/Suree33\/Catppuccin-Mocha-CotEditor",
+    "license" : "Same as CotEditor (Apache, ver.2)"
+  },
+  "name" : "Catppuccin Mocha",
+  "numbers" : {
+    "color" : "#fab387"
+  },
+  "selection" : {
+    "color" : "#9399b2bf",
+    "usesSystemSetting" : true
+  },
+  "strings" : {
+    "color" : "#a6e3a1"
+  },
+  "text" : {
+    "color" : "#cdd6f4"
+  },
+  "types" : {
+    "color" : "#f9e2af"
+  },
+  "values" : {
+    "color" : "#ed8796"
+  },
+  "variables" : {
+    "color" : "#eba0ac"
+  }
+}

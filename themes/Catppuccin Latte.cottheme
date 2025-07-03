@@ -1,0 +1,67 @@
+{
+  "attributes" : {
+    "color" : "#df8e1d"
+  },
+  "background" : {
+    "color" : "#eff1f5"
+  },
+  "characters" : {
+    "color" : "#ea76cb"
+  },
+  "commands" : {
+    "color" : "#1e66f5"
+  },
+  "comments" : {
+    "color" : "#7c7f93"
+  },
+  "cursor" : {
+    "color" : "#dc8a78",
+    "usesSystemSetting" : true
+  },
+  "highlight" : {
+    "color" : "#179299",
+    "usesSystemSetting" : true
+  },
+  "insertionPoint" : {
+    "color" : "#dc8a78",
+    "usesSystemSetting" : true
+  },
+  "invisibles" : {
+    "color" : "#9ca0b0"
+  },
+  "keywords" : {
+    "color" : "#8839ef"
+  },
+  "lineHighlight" : {
+    "color" : "#4c4f69e6"
+  },
+  "metadata" : {
+    "author" : "Suree33",
+    "description" : "Catppuccin Latte theme for CotEditor.",
+    "distributionURL" : "https:\/\/github.com\/Suree33\/Catppuccin-Latte-CotEditor",
+    "license" : "Same as CotEditor (Apache, ver.2)"
+  },
+  "name" : "Catppuccin Latte",
+  "numbers" : {
+    "color" : "#fe640b"
+  },
+  "selection" : {
+    "color" : "#7c7f93bf",
+    "usesSystemSetting" : true
+  },
+  "strings" : {
+    "color" : "#40a02b"
+  },
+  "text" : {
+    "color" : "#4c4f69"
+  },
+  "types" : {
+    "color" : "#df8e1d"
+  },
+  "values" : {
+    "color" : "#d20f39"
+  },
+  "variables" : {
+    "color" : "#e64553"
+  }
+}
