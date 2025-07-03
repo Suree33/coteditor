@@ -41,11 +41,10 @@
 3. Click the **More options button** (⋯) and select **Import...**.
 4. Select the downloaded flavor file.
 
-<!-- The FAQ section is optional. Remove if needed.-->
-<!-- ## 🙋 FAQ
+## 🙋 FAQ
 
-- Q: **_"How can I do X?"_**\
-  A: ... -->
+- Q: **_"What font is used in the screenshots?"_**\
+  A: The font used in the screenshots is [0xProto](https://github.com/0xType/0xProto).
 
 ## 💝 Thanks to
 
