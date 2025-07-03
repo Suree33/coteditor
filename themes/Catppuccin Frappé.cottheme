@@ -1,4 +1,5 @@
 
+
 {
   "attributes" : {
     "color" : "#e5c890"
@@ -34,7 +35,7 @@
     "color" : "#ca9ee6"
   },
   "lineHighlight" : {
-    "color" : "#c6d0f5e6"
+    "color" : "#c6d0f51a"
   },
   "metadata" : {
     "author" : "Suree33",
@@ -47,7 +48,7 @@
     "color" : "#ef9f76"
   },
   "selection" : {
-    "color" : "#949cbbbf",
+    "color" : "#949cbb40",
     "usesSystemSetting" : false
   },
   "strings" : {

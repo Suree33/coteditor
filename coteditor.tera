@@ -5,7 +5,8 @@ whiskers:
     - flavor
   filename: "themes/Catppuccin {{flavor.name}}.cottheme"
 ---
-
+{% set line_highlight = text | mod(opacity=0.1) %}
+{% set selection = overlay2 | mod(opacity=0.20) %}
 {
   "attributes" : {
     "color" : "#{{yellow.hex}}"
@@ -41,7 +42,7 @@ whiskers:
     "color" : "#{{mauve.hex}}"
   },
   "lineHighlight" : {
-    "color" : "#{{text.hex}}e6"
+    "color" : "#{{line_highlight.hex}}"
   },
   "metadata" : {
     "author" : "Suree33",
@@ -54,7 +55,7 @@ whiskers:
     "color" : "#{{peach.hex}}"
   },
   "selection" : {
-    "color" : "#{{overlay2.hex}}bf",
+    "color" : "#{{selection.hex}}",
     "usesSystemSetting" : false
   },
   "strings" : {
