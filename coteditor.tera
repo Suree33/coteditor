@@ -5,8 +5,8 @@ whiskers:
     - flavor
   filename: "themes/Catppuccin {{flavor.name}}.cottheme"
 ---
-{% set line_highlight = text | mod(opacity=0.1) %}
-{% set selection = overlay2 | mod(opacity=0.20) %}
+{% set line_highlight = text | mod(opacity=0.1) -%}
+{% set selection = overlay2 | mod(opacity=0.20) -%}
 {
   "attributes" : {
     "color" : "#{{yellow.hex}}"
