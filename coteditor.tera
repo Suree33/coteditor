@@ -3,7 +3,7 @@ whiskers:
   version: ^2.5.1
   matrix:
     - flavor
-  filename: "themes/Catppuccin {{flavor.name}}.cottheme"
+  filename: "themes/catppuccin-{{flavor.identifier}}.cottheme"
 ---
 {% set line_highlight = text | mod(opacity=0.1) %}
 {% set selection = overlay2 | mod(opacity=0.20) %}
