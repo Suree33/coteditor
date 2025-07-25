@@ -8,11 +8,40 @@ whiskers:
 {% set line_highlight = text | mod(opacity=0.1) -%}
 {% set selection = overlay2 | mod(opacity=0.20) -%}
 {
-  "attributes" : {
-    "color" : "#{{yellow.hex}}"
+  "name" : "Catppuccin {{flavor.name}}",
+  "metadata" : {
+    "author" : "Catppuccin",
+    "description" : "Soothing pastel theme for CotEditor",
+    "distributionURL" : "https:\/\/github.com\/Suree33\/coteditor",
+    "license" : "MIT"
   },
   "background" : {
     "color" : "#{{base.hex}}"
+  },
+  "text" : {
+    "color" : "#{{text.hex}}"
+  },
+  "selection" : {
+    "color" : "#{{selection.hex}}",
+    "usesSystemSetting" : false
+  },
+  "cursor" : {
+    "color" : "#{{rosewater.hex}}",
+    "usesSystemSetting" : false
+  },
+  "lineHighlight" : {
+    "color" : "#{{line_highlight.hex}}"
+  },
+  "insertionPoint" : {
+    "color" : "#{{rosewater.hex}}",
+    "usesSystemSetting" : false
+  },
+  "highlight" : {
+    "color" : "#{{teal.hex}}",
+    "usesSystemSetting" : false
+  },
+  "attributes" : {
+    "color" : "#{{yellow.hex}}"
   },
   "characters" : {
     "color" : "#{{pink.hex}}"
@@ -23,46 +52,17 @@ whiskers:
   "comments" : {
     "color" : "#{{overlay2.hex}}"
   },
-  "cursor" : {
-    "color" : "#{{rosewater.hex}}",
-    "usesSystemSetting" : false
-  },
-  "highlight" : {
-    "color" : "#{{teal.hex}}",
-    "usesSystemSetting" : false
-  },
-  "insertionPoint" : {
-    "color" : "#{{rosewater.hex}}",
-    "usesSystemSetting" : false
-  },
   "invisibles" : {
     "color" : "#{{overlay0.hex}}"
   },
   "keywords" : {
     "color" : "#{{mauve.hex}}"
   },
-  "lineHighlight" : {
-    "color" : "#{{line_highlight.hex}}"
-  },
-  "metadata" : {
-    "author" : "Suree33",
-    "description" : "Catppuccin {{flavor.name}} theme for CotEditor.",
-    "distributionURL" : "https:\/\/github.com\/Suree33\/coteditor",
-    "license" : "MIT"
-  },
-  "name" : "Catppuccin {{flavor.name}}",
   "numbers" : {
     "color" : "#{{peach.hex}}"
   },
-  "selection" : {
-    "color" : "#{{selection.hex}}",
-    "usesSystemSetting" : false
-  },
   "strings" : {
     "color" : "#{{green.hex}}"
-  },
-  "text" : {
-    "color" : "#{{text.hex}}"
   },
   "types" : {
     "color" : "#{{yellow.hex}}"
