@@ -1,9 +1,38 @@
 {
-  "attributes" : {
-    "color" : "#eed49f"
+  "name" : "Catppuccin Macchiato",
+  "metadata" : {
+    "author" : "Catppuccin",
+    "description" : "Soothing pastel theme for CotEditor",
+    "distributionURL" : "https:\/\/github.com\/Suree33\/coteditor",
+    "license" : "MIT"
   },
   "background" : {
     "color" : "#24273a"
+  },
+  "text" : {
+    "color" : "#cad3f5"
+  },
+  "selection" : {
+    "color" : "#939ab733",
+    "usesSystemSetting" : false
+  },
+  "cursor" : {
+    "color" : "#f4dbd6",
+    "usesSystemSetting" : false
+  },
+  "lineHighlight" : {
+    "color" : "#cad3f51a"
+  },
+  "insertionPoint" : {
+    "color" : "#f4dbd6",
+    "usesSystemSetting" : false
+  },
+  "highlight" : {
+    "color" : "#8bd5ca",
+    "usesSystemSetting" : false
+  },
+  "attributes" : {
+    "color" : "#eed49f"
   },
   "characters" : {
     "color" : "#f5bde6"
@@ -14,46 +43,17 @@
   "comments" : {
     "color" : "#939ab7"
   },
-  "cursor" : {
-    "color" : "#f4dbd6",
-    "usesSystemSetting" : false
-  },
-  "highlight" : {
-    "color" : "#8bd5ca",
-    "usesSystemSetting" : false
-  },
-  "insertionPoint" : {
-    "color" : "#f4dbd6",
-    "usesSystemSetting" : false
-  },
   "invisibles" : {
     "color" : "#6e738d"
   },
   "keywords" : {
     "color" : "#c6a0f6"
   },
-  "lineHighlight" : {
-    "color" : "#cad3f51a"
-  },
-  "metadata" : {
-    "author" : "Suree33",
-    "description" : "Catppuccin Macchiato theme for CotEditor.",
-    "distributionURL" : "https:\/\/github.com\/Suree33\/coteditor",
-    "license" : "MIT"
-  },
-  "name" : "Catppuccin Macchiato",
   "numbers" : {
     "color" : "#f5a97f"
   },
-  "selection" : {
-    "color" : "#939ab733",
-    "usesSystemSetting" : false
-  },
   "strings" : {
     "color" : "#a6da95"
-  },
-  "text" : {
-    "color" : "#cad3f5"
   },
   "types" : {
     "color" : "#eed49f"
