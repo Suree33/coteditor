@@ -3,7 +3,7 @@
   "metadata" : {
     "author" : "Catppuccin",
     "description" : "Soothing pastel theme for CotEditor",
-    "distributionURL" : "https:\/\/github.com\/Suree33\/coteditor",
+    "distributionURL" : "https:\/\/github.com\/catppuccin\/coteditor",
     "license" : "MIT"
   },
   "background" : {
