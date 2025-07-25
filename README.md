@@ -6,40 +6,40 @@
 </h3>
 
 <p align="center">
- <a href="https://github.com/Suree33/coteditor/stargazers"><img src="https://img.shields.io/github/stars/Suree33/coteditor?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
- <a href="https://github.com/Suree33/coteditor/issues"><img src="https://img.shields.io/github/issues/Suree33/coteditor?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
- <a href="https://github.com/Suree33/coteditor/contributors"><img src="https://img.shields.io/github/contributors/Suree33/coteditor?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+ <a href="https://github.com/catppuccin/coteditor/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/coteditor?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+ <a href="https://github.com/catppuccin/coteditor/issues"><img src="https://img.shields.io/github/issues/catppuccin/coteditor?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+ <a href="https://github.com/catppuccin/coteditor/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/coteditor?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
- <img src="assets/previews/preview.webp"/>
+ <img src="assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/previews/latte.webp"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/previews/frappe.webp"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/previews/macchiato.webp"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/previews/mocha.webp"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
 
-1. Download the flavor of your choice.
+1. Download the flavor of your choice from the [themes](./themes) directory.
 2. Open the app and go to **Settings** > **Appearance**.
 3. Click the **More options button** (⋯) and select **Import...**.
-4. Select the downloaded flavor file.
+4. Select the file that you downloaded.
 
 ## 🙋 FAQ
 
